@@ -1,0 +1,25 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "email": "test100@test.com",
+      "password": "$2a$10$DX7OL6UXtMrqEj6oHuE1YemYtrn0psEDXrIQHReyASwmwaMMPXdiW",
+      "name": "test",
+      "image": "/image1.jpeg"
+    },
+    {
+      "id": 2,
+      "email": "test100@test.com",
+      "password": "$2a$10$gDNbcvhk1kEh5/rnrLbkn.XEItWDWHejiKRayO5xaFc7Wik2OqrEO",
+      "name": "Alex",
+      "image": "/image2.avif"
+    },
+    {
+      "id": 3,
+      "email": "test10@test.com",
+      "password": "$2a$10$gDNbcvhk1kEh5/rnrLbkn.XEItWDWHejiKRayO5xaFc7Wik2OqrEO",
+      "name": "Jordan",
+      "image": "/image3.jpeg"
+    }
+  ]
+}
